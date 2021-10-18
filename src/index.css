@@ -29,7 +29,7 @@ body {
   /* background: rgb(100, 0, 123);
   background: radial-gradient(circle, rgb(18 118 69) 0%, rgb(12 89 30) 100%); */
   background-image: url(https://res.cloudinary.com/dbzfjnlhl/image/upload/v1633962342/Portfolio/IMG_20210724_174811_5_a1hrr6.jpg);
-  overflow: hidden;
+  /* overflow: hidden; */
   /* background-position: center;  */
   background-size: cover;
 }
